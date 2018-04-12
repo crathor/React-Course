@@ -10,7 +10,6 @@ const CharComponent = props => {
     textAlign: 'center',
     margin: '5px',
     border: '1px solid black',
-    boxShadow: '0 2px 3px #000000',
     background: `${color}`,
     color: '#FFFFFF',
     fontSize: '20px',
