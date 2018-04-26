@@ -12,5 +12,4 @@ const person = ( props ) => {
     )
 };
 
-
 export default person;
