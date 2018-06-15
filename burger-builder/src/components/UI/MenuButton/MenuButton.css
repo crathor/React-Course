@@ -1,0 +1,16 @@
+.MenuButton {
+  height: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  color: white;
+  background: none;
+  border: none;
+  font-size: 1.6rem;
+  outline: none;
+}
+.MenuButton:hover {
+  color: #CCC;
+}
+.MenuButton:active {
+  color: #1f1f1f;
+}
